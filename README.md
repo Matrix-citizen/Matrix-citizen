@@ -20,7 +20,7 @@ You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://img.icons8.com/android/24/000000/linkedin.png (LinkedIn icon)
+[1.2]: https://img.icons8.com/color/48/000000/linkedin-circled--v3.png (LinkedIn icon)
 
 <!-- Links to your social media accounts -->
 
