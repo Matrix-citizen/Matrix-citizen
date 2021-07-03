@@ -7,7 +7,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-citizen&layout=compact)](https://github.com/Matrix-citizen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-citizen&layout=default)](https://github.com/Matrix-citizen/github-readme-stats)
 
 
 
