@@ -14,7 +14,7 @@
 
 
 <!-- Actual text -->
-### Contact me: [![LinkedIn][1.2]][1]
+### Contact me:    [![LinkedIn][1.2]][1]
 
 
 
