@@ -14,12 +14,12 @@
 
 
 <!-- Actual text -->
+### Contact me:
 
-You can find me on [![LinkedIn][1.2]][1].
+[![LinkedIn][1.2]][1].
 
 <!-- Icons -->
-
-[1.2]: https://img.icons8.com/material-rounded/24/4a90e2/linkedin--v1.png (LinkedIn icon)
+[1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- Links to your social media accounts -->
 
