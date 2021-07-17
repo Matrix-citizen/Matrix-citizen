@@ -26,4 +26,4 @@
 
 
 P.S. Everything is possible, the impossible just takes longer
-<img src="https://github.com/Matrix-citizen/Matrix-citizen/blob/main/legend.svg" alt="legend">
+<img src="">
