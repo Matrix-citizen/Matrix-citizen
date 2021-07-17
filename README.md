@@ -25,4 +25,5 @@
 [1]: https://www.linkedin.com/in/rostyslav-klyba-9a780510b/
 
 
-**P.S. Everything is possible, the impossible just takes longer**
+P.S. Everything is possible, the impossible just takes longer
+<img src="https://github.com/Matrix-citizen/Matrix-citizen/blob/main/legend.svg" alt="legend">
