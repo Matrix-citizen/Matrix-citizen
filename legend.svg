@@ -8,13 +8,13 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-         h1 {
+         p {
           font-size: 2rem;
           color: green;
         }
       </style>
       <div class="container">
-        <h1>P.S. Everything is possible, the impossible just takes longer</h1>
+        <p>P.S. Everything is possible, the impossible just takes longer</p>
       </div>
     </div>
   </foreignObject>
