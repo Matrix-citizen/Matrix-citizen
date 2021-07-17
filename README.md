@@ -25,4 +25,4 @@
 [1]: https://www.linkedin.com/in/rostyslav-klyba-9a780510b/
 
 
-<">
+<img src="https://github.com/Matrix-citizen/Matrix-citizen/blob/main/legend.svg">
