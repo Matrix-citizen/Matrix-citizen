@@ -10,7 +10,7 @@
       <style>
          h1 {
           font-size: 2rem;
-          color: rgb(70, 70, 110);
+          color: green;
         }
       </style>
       <div class="container">
