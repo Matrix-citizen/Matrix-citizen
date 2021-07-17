@@ -24,5 +24,5 @@
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/rostyslav-klyba-9a780510b/
 
-
+## P.S. Everything is possible, the impossible just takes longer.
 
