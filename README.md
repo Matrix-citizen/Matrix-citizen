@@ -1,7 +1,9 @@
 <div align="center">
 <img width="700px" height="300px" src="https://github.com/Matrix-citizen/Matrix-citizen/blob/main/404542.png" alt="Matrix banner">
 </div>
+
 <h2 align="center">Languages and tools</h2>
+
 <br>
 <div align="center">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -13,7 +15,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatrix-citizen&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile&nbsp;views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 <!-- Actual text -->
 [![LinkedIn][1.2]][1]
 
@@ -21,6 +22,6 @@
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- Links to your social media accounts -->
-
 [1]: https://www.linkedin.com/in/rostyslav-klyba-9a780510b/
-<h3>P.S. Everything is possible, the impossible just takes longer!</h1>
+
+**P.S. Everything is possible, the impossible just takes longer!**
