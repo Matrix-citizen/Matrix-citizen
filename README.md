@@ -1,3 +1,4 @@
+
 <h2 align="center">Languages and tools</h2>
 <br>
 <div align="center">
@@ -10,11 +11,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-citizen&layout=compact&card_width=1000)](https://github.com/Matrix-citizen/github-readme-stats)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatrix-citizen&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatrix-citizen&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile&nbsp;views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!-- Actual text -->
-### Contact me: &nbsp; &nbsp; [![LinkedIn][1.2]][1]
+[![LinkedIn][1.2]][1]
 
 <!-- Icons -->
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -22,3 +23,4 @@
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/rostyslav-klyba-9a780510b/
+><h3>Everything is possible, the impossible just takes longer!</h1>
